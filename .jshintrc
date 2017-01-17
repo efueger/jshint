@@ -32,7 +32,7 @@
 
 "globals":{
 
-jQuery: true,
+"jQuery": true,
 
 "$": true,
 
