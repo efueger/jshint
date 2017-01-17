@@ -6,8 +6,6 @@
 
 "jQuery": true,
 
-"$": true,
-
 "angular": true,
 
 "moment": true,
