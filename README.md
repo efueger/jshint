@@ -1,3 +1,5 @@
+change 1
+
 # JSHint, A Static Code Analysis Tool for JavaScript
 
 \[ [Use it online](http://jshint.com/) •
