@@ -1,3 +1,6 @@
+$(function () {
+    'use strict';
+
 var defaultFrom = mymoments().subtract(30, 'days').format('L'),
         defaultTo = mymoments().format('L');
     // initialize bootstrap date picker and set the to and from dates
