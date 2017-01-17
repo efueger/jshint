@@ -39,6 +39,8 @@ jQuery: true,
 "angular": true,
 
 "moment": true,
+ 
+"mymoments": true, 
 
 "IQapp": true,
 
