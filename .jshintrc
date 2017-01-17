@@ -1,10 +1,50 @@
 {
 
+"boss": true,
+
+"browser": true,
+
+"curly": true,
+
+"eqeqeq": true,
+
+"eqnull": true,
+
+"expr": true,
+
+"immed": true,
+
+"indent":2,
+
+"latedef": true,
+
+"newcap": true,
+
+"noarg": true,
+
+"sub": true,
+
+"trailing": true,
+
+"undef": true,
+
+"unused": true,
+
+"globals":{
+
+jQuery: true,
+
+"$": true,
+
+"angular": true,
+
+"moment": true,
+
+"mymoments": true,
 
 
-"globals": {
 
-"mymoments": true
+"adminApp": true,
 
 }
 
