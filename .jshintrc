@@ -4,9 +4,6 @@
 
 "globals": {
 
-"jQuery": true,
-
-"angular": true,
 
 "moment": true,
   
