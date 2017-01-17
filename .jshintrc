@@ -1,51 +1,15 @@
 {
-
-"boss": true,
-
-"browser": true,
-
-"curly": true,
-
-"eqeqeq": true,
-
-"eqnull": true,
-
-"expr": true,
-
-"immed": true,
-
-"indent":2,
-
-"latedef": true,
-
-"newcap": true,
-
-"noarg": true,
-
-"sub": true,
-
-"trailing": true,
-
-"undef": true,
-
-"unused": true,
-
-"globals":{
-
-jQuery: true,
-
-"$": true,
-
-"angular": true,
-
-"moment": true,
-
-"mymoments": true,
-
-
-
-"adminApp": true,
-
-}
-
+  "boss":      true,
+  "node":      true,
+  "eqeqeq":    true,
+  "strict":    true,
+  "newcap":    false,
+  "undef":     true,
+  "unused":    true,
+  "onecase":   true,
+  "lastsemic": true,
+  "asi":       true,
+  "globals": {
+    "mymoments": true
+  }
 }
