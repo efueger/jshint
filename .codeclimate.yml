@@ -1,19 +1,6 @@
-engines:
-  rubocop:
-    enabled: false
-  duplication:
-    enabled: false
-    config:
-      languages:
-        ruby:
-          mass_threshold: 18
-  brakeman:
-    enabled: false
-  jshint:
-    enabled: true
- ## We also recommend enabling bundler-audit by uncommenting the two lines below. It is an example of additional functionality offered by our engines not offered by classic.
- # bundler-audit:
- #   enabled: true
+lauguages:
+  Ruby: false
+  Javascript: true
 ratings: # customize
   paths:
   - app/**/*
