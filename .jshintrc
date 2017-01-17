@@ -8,5 +8,8 @@
   "unused":    true,
   "onecase":   true,
   "lastsemic": true,
-  "asi":       true
+  "asi":       true,
+  "globals": {
+    "mymoments": true
+  }
 }
