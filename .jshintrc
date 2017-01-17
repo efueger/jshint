@@ -1,19 +1,5 @@
 
 
 "globals": {
-
-"jQuery": true,
-
-"$": true,
-
-"angular": true,
-
-"moment": true,
- 
-"mymoments": true, 
-
-"IQapp": true,
-
-"adminApp": true,
-
+"mymoments": true
 }
